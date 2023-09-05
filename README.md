@@ -113,5 +113,11 @@ puts "Hello, World!"
 > [!IMPORTANT]  
 > This Project Is For Example Purposes Only.
 
+## Creating a Clone
+
+```git
+gh repo clone musarda/Popular-Programming-Languages
+```
+
 ## License
 This project is licensed under the **[MIT License.](https://github.com/musarda/Popular-Programming-Languages/blob/main/LICENSE)**
