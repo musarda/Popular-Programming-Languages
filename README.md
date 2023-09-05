@@ -14,35 +14,37 @@ Welcome to our comprehensive guide that introduces and explains the most widely 
 
 This guide covers several of the most influential and commonly used programming languages, including:
 
-- [Python](#python)
-- [JavaScript](#javascript)
-- [Java](#java)
-- [C++](#c++)
-- [Ruby](#ruby)
+- **[Python](#python)**
+- **[JavaScript](#javascript)**
+- **[Java](#java)**
+- **[C++](#c++)**
+- **[Ruby](#ruby)**
 
 ## Python
 
-Python is a versatile, high-level programming language known for its readability and simplicity. It's an excellent choice for both beginners and experienced developers.
+**Python** is a versatile, high-level programming language known for its readability and simplicity. It's an excellent choice for both beginners and experienced developers.
 
 ### Sample Code
 
 ```python
 print("Hello, World!")
 ```
+**[Browse Python Codes](https://github.com/musarda/Popular-Programming-Languages/tree/main/src/python)**
 
 ## JavaScript
 
-JavaScript is the backbone of web development, used to create dynamic and interactive web applications that run in browsers.
+**JavaScript** is the backbone of web development, used to create dynamic and interactive web applications that run in browsers.
 
 ### Sample Code
 
 ```js
 console.log("Hello, World!");
 ```
+**[Browse JavaScript Codes](https://github.com/musarda/Popular-Programming-Languages/tree/main/src/javascript)**
 
 ## Java
 
-Java is a platform-independent language often utilized for building large-scale applications. It offers robust performance and a rich ecosystem.
+**Java** is a platform-independent language often utilized for building large-scale applications. It offers robust performance and a rich ecosystem.
 
 ### Sample Code
 
@@ -53,10 +55,11 @@ public class HelloWorld {
     }
 }
 ```
+**[Browse Java Codes](https://github.com/musarda/Popular-Programming-Languages/tree/main/src/java)**
 
 ## C++
 
-C++ is a high-performance language commonly employed for resource-intensive applications, such as game development.
+**C++** is a high-performance language commonly employed for resource-intensive applications, such as game development.
 
 ### Sample Code
 
@@ -69,10 +72,11 @@ int main() {
     return 0;
 }
 ```
+**[Browse C++ Codes](https://github.com/musarda/Popular-Programming-Languages/tree/main/src/cpp)**
 
 ## Ruby
 
-Ruby is a user-friendly, open-source language commonly used with the Ruby on Rails framework for web application development.
+**Ruby** is a user-friendly, open-source language commonly used with the Ruby on Rails framework for web application development.
 
 ### Sample Code
 
@@ -80,7 +84,8 @@ Ruby is a user-friendly, open-source language commonly used with the Ruby on Rai
 puts "Hello, World!"
 ```
 
-**[More Codes](#)**
+> [!NOTE]  
+> This Project Is For Example Purposes Only.
 
 ## License
 This project is licensed under the **[MIT License.](https://github.com/musarda/Popular-Programming-Languages/blob/main/LICENSE)**
