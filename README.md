@@ -116,7 +116,7 @@ puts "Hello, World!"
 ## Creating a Clone
 
 ```git
-gh repo clone musarda/Popular-Programming-Languages
+git clone https://github.com/musarda/Popular-Programming-Languages.git
 ```
 
 ## License
