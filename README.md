@@ -80,7 +80,7 @@ Ruby is a user-friendly, open-source language commonly used with the Ruby on Rai
 puts "Hello, World!"
 ```
 
-[More Codes](#)
+**[More Codes](#)**
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the **[MIT License.](https://github.com/musarda/Popular-Programming-Languages/blob/main/LICENSE)**
