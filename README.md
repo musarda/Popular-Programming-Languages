@@ -10,6 +10,9 @@ Welcome to our comprehensive guide that introduces and explains the most widely 
 
 - **For Developers:** Whether you're a seasoned developer or looking to expand your skill set, you'll find detailed information on each language, helping you decide which one best suits your project's needs.
 
+> [!WARNING]  
+> The Information in This Project Is For Exemplary Purposes Only and Its Purposes May Vary.
+
 ## Featured Programming Languages
 
 This guide covers several of the most influential and commonly used programming languages, including:
