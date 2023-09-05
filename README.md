@@ -84,7 +84,7 @@ int main() {
 puts "Hello, World!"
 ```
 
-> [!NOTE]  
+> [!IMPORTANT]  
 > This Project Is For Example Purposes Only.
 
 ## License
